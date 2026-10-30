@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "oliva10000.aternos.me",
+    "port": 35106,
     "version": "",
     "try-creative": false
   },
